@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravjainer&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjainer" /> </p>
 
-- 🌱 I’m currently learning **Java , Html, Css , Java Script**
+- 🌱 I’m currently learning **Java Script, SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gaurav-jain-developer](https://www.linkedin.com/in/gaurav-jain-developer)
 
