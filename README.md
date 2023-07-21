@@ -1,4 +1,4 @@
-![logo](https://github.com/GauravJainEr/GauravJainEr/blob/main/logoBanner.png)
+ ![logo](https://github.com/GauravJainEr/GauravJainEr/blob/main/logoBanner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Jain</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
